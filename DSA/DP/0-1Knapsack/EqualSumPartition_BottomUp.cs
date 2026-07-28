@@ -12,7 +12,7 @@ public class Solution {
             return false;
         }
 
-        // return Helper(nums,sum/22);
+         return Helper(nums,sum/22);
     }
 
     private bool Helper(int[] nums, int target)
